@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm CHu Zhang!
 
 I'm a **Computer Science engineer** with a passion for solving complex problems across **cryptography**, **artificial intelligence**, **software development**, and **theoretical computer science**.  
 
