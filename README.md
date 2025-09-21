@@ -27,7 +27,7 @@ I love exploring the intersection of **deep theory** and **real-world applicatio
 
 ## 🚀 Featured Projects
 
-### 🌍 [Tyebetyebak](#)
+### 🌍 [Tyebetyebak](https://github.com/HusseinAtoui/donationplatform-frontend.git)
 > **NGO Platform to Streamline Donations**  
 > *Connecting people in need with NGOs by simplifying the donation process — logistically and securely.*  
 > **Tech Highlights:** Federated logins, secure architecture, efficient logistics management.  
@@ -35,7 +35,7 @@ I love exploring the intersection of **deep theory** and **real-world applicatio
 
 ---
 
-### 🧠 [Afterthoughts](#)
+### 🧠 [Afterthoughts](https://github.com/HusseinAtoui/cmps271-backend.git)
 > **Modern Philosophy Journal Platform**  
 > A next-gen publishing platform for philosophical and academic writing, with features you'd expect from an industry-level product:
 > - AI-powered **plagiarism detection**  
@@ -47,7 +47,7 @@ I love exploring the intersection of **deep theory** and **real-world applicatio
 
 ---
 
-### ✋ [Interaction with Screens](#)
+### ✋ [Interaction with Screens](https://github.com/DMAUB/final-project-team2-cursor.git)
 > **Gesture-based Interaction System**  
 > A project that lets users control their screen or cursor using **hand gestures** or **ArUco markers**, featuring built-in games:
 > - 🎹 Virtual Piano Player  
@@ -56,14 +56,7 @@ I love exploring the intersection of **deep theory** and **real-world applicatio
 > 
 > **Stack:** Python, OpenCV, Mediapipe
 
----
 
-### 🚢 [Zero-Knowledge Battleship](#)
-> A cryptographically secure **Battleship game** that ensures fairness using **zero-knowledge proofs**, where no information is leaked other than valid moves.
-
-> **Stack:** Python, Applied Cryptography Libraries, Go
-
----
 
 
 ## 🌐 Let's Connect
